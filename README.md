@@ -1,6 +1,6 @@
 # SE4041 – Practical 05: Quick Tasks (watchOS)
 
-**Student:** Srithar Santhosh (IT22113740)
+**Student:** kalaiyalagan Thiveesan (IT23204348)
 **Module:** SE4041 – Mobile Application Design & Development
 **Platform:** watchOS 9+ · SwiftUI · Swift
 
